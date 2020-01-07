@@ -1,0 +1,18 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/ashley/Documents/BIPN162/Materials
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=f838799388e8df0c47d8031b7bf9559388b83441c3c76d87
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/ashley/Library/Jupyter/runtime/nbserver-4000-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=f838799388e8df0c47d8031b7bf9559388b83441c3c76d87
+[NotebookApp | INFO] Kernel started: c4f6cdd3-3f7f-459a-a490-c978a5b85e23
+[NotebookApp | INFO] Saving file at /02-ExpressionsVariablesStrings.ipynb
+[NotebookApp | INFO] Starting buffering for c4f6cdd3-3f7f-459a-a490-c978a5b85e23:02ee47a500e745a28d6814c178aada22
+[NotebookApp | INFO] Shutting down on /api/shutdown request.
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c4f6cdd3-3f7f-459a-a490-c978a5b85e23
